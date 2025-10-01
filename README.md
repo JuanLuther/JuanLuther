@@ -83,8 +83,6 @@ Here are a few technologies I'm working with right now:
 <a href="https://www.instagram.com/jerickdalemendoza/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jerickdalemendoza/)
-
 <br>
 
 ### 🔥 GitHub Stats
