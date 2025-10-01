@@ -85,12 +85,11 @@ Here are a few technologies I'm working with right now:
 </a>
 <br>
 
-### 🔥 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanLuther&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanLuther&theme=vue&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 *Inspired by the awesome GitHub community.*
