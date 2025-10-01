@@ -74,8 +74,15 @@ Here are a few technologies I'm working with right now:
 
 ### 🔗 Connect With Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerick-dale-mendoza-343b45190/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE5IDJoLTZWNGgyVjZoNHYxNkg2di0ySDJWMjBoNHYySDI0VjRoLTRWMnpNMTIgMTlIMTB2LTJWMTRoMnY1eiIvPjwvc3ZnPg==&logoColor=white)](https://jd-mendoza.vercel.app/)
+<a href="https://www.linkedin.com/in/jerick-dale-mendoza-343b45190/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://jd-mendoza.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE5IDJoLTZWNGgyVjZoNHYxNkg2di0ySDJWMjBoNHYySDI0VjRoLTRWMnpNMTIgMTlIMTB2LTJWMTRoMnY1eiIvPjwvc3ZnPg==&logoColor=white" alt="Portfolio Badge"/>
+</a>
+<a href="https://www.instagram.com/jerickdalemendoza/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jerickdalemendoza/)
 
 <br>
