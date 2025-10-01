@@ -59,6 +59,10 @@ Here are a few technologies I'm working with right now:
       <img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="Docker" />
       <br><strong>PostgreSQL</strong>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="Docker" />
+      <br><strong>MySQL</strong>
+    </td>
     <!-- <td align="center">
       <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" />
       <br><strong>AWS</strong>
