@@ -53,7 +53,7 @@ Here are a few technologies I'm working with right now:
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mongo" width="40" height="40" alt="Docker" />
-      <br><strong>Mongo</strong>
+      <br><strong>MongoDB</strong>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="Docker" />
